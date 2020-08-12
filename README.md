@@ -8,8 +8,8 @@ instead of `Rain`. It will prompt you for it, instead of simply throwing an erro
 ---
 
 ## Project Details
-* <ins> Name </ins> :  Interactive_Dictionary
-* <ins> Category </ins> :  Python
+* <ins>Name</ins> :  Interactive_Dictionary
+* <ins>Category</ins> :  Python
 
 ---
 
